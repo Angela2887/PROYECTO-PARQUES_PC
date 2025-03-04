@@ -17,16 +17,25 @@ Personaliza la experiencia de juego, adaptándola a tus preferencias y necesidad
 Este repositorio es un punto de encuentro para programadores apasionados por los juegos y la colaboración. ¡Te invitamos a formar parte de esta aventura!
 # INSTRUCCIONES
 Requisitos:
+
 Python
+
 Vs code (opcional)
+
 Os (Liblreria)
+
 Random (Liblreria)
+
 sys (Liblreria)
+
 
 Como Ejecutar el juego:
 
+
 1.descarga archivo .py anexado en la parte superior del repositorio (Proyecto_1_parqués).
+
 2.Asegurate que las Librerías de Python (Os, Sys y random) estén instaladas.
+
 3.Correr el codigo
 
 
