@@ -27,6 +27,9 @@ Como Ejecutar el juego:
 1.descarga archivo .py anexado en la parte superior del repositorio (Proyecto_1_parqués).
 2.Asegurate que las Librerías de Python (Os, Sys y random) estén instaladas.
 3.Correr el codigo
+
+
 Juego desarrollado por:
+
 - Angela Patricia Tonocolia Lopez
 - Cristhian Daniel Hernández Zamora
