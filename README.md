@@ -7,7 +7,7 @@ Te damos la bienvenida al repositorio del código fuente de Parqués UN, un proy
 ¿Qué te espera en este espacio?
 
 Un código fuente abierto y accesible, listo para ser explorado y modificado.
-Una interfaz gráfica intuitiva, creada con Tkinter, que garantiza una experiencia de juego inmersiva.
+Una interfaz gráfica intuitiva, creada con PYTHON, que garantiza una experiencia de juego inmersiva.
 Documentación detallada que te guiará a través de cada aspecto del juego, desde su lógica interna hasta su diseño visual.
 ¡Tu contribución es valiosa!
 
