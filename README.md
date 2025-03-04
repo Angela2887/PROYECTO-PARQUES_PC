@@ -15,3 +15,16 @@ Explora el código, descubre nuevas formas de mejorar el juego y comparte tus id
 Personaliza la experiencia de juego, adaptándola a tus preferencias y necesidades.
 Únete a nosotros para hacer de Parqués UN un proyecto aún más grande y emocionante.
 Este repositorio es un punto de encuentro para programadores apasionados por los juegos y la colaboración. ¡Te invitamos a formar parte de esta aventura!
+# INSTRUCCIONES
+--->Requisitos:
+
+Python
+Vs code (opcional)
+Os (Liblreria)
+Random (Liblreria)
+sys (Liblreria)
+--->Ejecutar el juego:
+
+descarga archivo .py anexado en la parte superior del repositorio (UN proyecto oficial).
+Ten en cuenta que las Librerías de Python (Os, Sys y random) estén instaladas.
+Correr el codigo
