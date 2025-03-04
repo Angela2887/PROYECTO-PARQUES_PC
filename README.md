@@ -16,15 +16,17 @@ Personaliza la experiencia de juego, adaptándola a tus preferencias y necesidad
 Únete a nosotros para hacer de Parqués UN un proyecto aún más grande y emocionante.
 Este repositorio es un punto de encuentro para programadores apasionados por los juegos y la colaboración. ¡Te invitamos a formar parte de esta aventura!
 # INSTRUCCIONES
---->Requisitos:
-
+Requisitos:
 Python
 Vs code (opcional)
 Os (Liblreria)
 Random (Liblreria)
 sys (Liblreria)
---->Ejecutar el juego:
+Como Ejecutar el juego:
 
-descarga archivo .py anexado en la parte superior del repositorio (UN proyecto oficial).
-Ten en cuenta que las Librerías de Python (Os, Sys y random) estén instaladas.
-Correr el codigo
+1.descarga archivo .py anexado en la parte superior del repositorio (Proyecto_1_parqués).
+2.Asegurate que las Librerías de Python (Os, Sys y random) estén instaladas.
+3.Correr el codigo
+Juego desarrollado por:
+- Angela Patricia Tonocolia Lopez
+- Cristhian Daniel Hernández Zamora
